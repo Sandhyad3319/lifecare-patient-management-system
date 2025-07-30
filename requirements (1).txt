@@ -1,0 +1,4 @@
+# No external libraries required.
+# The following are included with standard Python installation:
+tk
+sqlite3
